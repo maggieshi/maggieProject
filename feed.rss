@@ -72,10 +72,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                               document,'script','https://connect.facebook.net/en_US/fbevents.js');
 
                               fbq('init', '840151449452223');
-                              fbq('track', 'InstantArticleHeaderIframe1', {
-                                title: title,
-                                referrer: referrer
-                              });
+                              fbq('track', 'InstantArticleHeaderIframe1');
 
                               </script>
                       </iframe>
@@ -445,10 +442,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                               document,'script','https://connect.facebook.net/en_US/fbevents.js');
 
                               fbq('init', '840151449452223');
-                              fbq('track', 'InstantArticleHeaderIframe2', {
-                                title: title,
-                                referrer: referrer
-                              });
+                              fbq('track', 'InstantArticleHeaderIframe2');
 
                               </script>
                       </iframe>
