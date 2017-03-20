@@ -424,7 +424,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                  <time class="op-published" dateTime="2016-2-04T08:00">February 4th 2016, 8:00 AM</time>
                 <time class="op-modified" dateTime="2016-2-04T08:00">February 4th 2016, 8:00 AM</time>
                 <figure class="op-tracker">
-                      <iframe>
+                      <iframe src="https://connect.facebook.net/en_US/fbevents.js">
                           <script>
                               // The URL the user shared
                               var urlSharedByUser = ia_document.shareURL;
